@@ -4,7 +4,7 @@
   <title><![CDATA[Big Data Genomics]]></title>
   <link href="http://bigdatagenomics.github.io/atom.xml" rel="self"/>
   <link href="http://bigdatagenomics.github.io/"/>
-  <updated>2014-02-07T15:38:24-08:00</updated>
+  <updated>2014-02-12T12:23:09-08:00</updated>
   <id>http://bigdatagenomics.github.io/</id>
   <author>
     <name><![CDATA[Big Data Genomics]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Strata Big Data Science Talk]]></title>
+    <link href="http://bigdatagenomics.github.io/blog/2014/02/12/strata-big-data-science-talk/"/>
+    <updated>2014-02-12T12:05:11-08:00</updated>
+    <id>http://bigdatagenomics.github.io/blog/2014/02/12/strata-big-data-science-talk</id>
+    <content type="html"><![CDATA[<p>Frank Nothaft gave a talk on ADAM at the <a href="http://www.meetup.com/Big-Data-Science/events/107491582/">Strata Big Data Science Meetup</a>
+where he discussed the overall architecture and performance characteristics of ADAM</p>
+
+<p>Frank is a graduate student in the AMP and ASPIRE labs at UC-Berkeley, and is advised by Prof. David Patterson. His current focus is
+on high performance computer systems for bioinformatics, and is involved in the ADAM, avocado, and FireBox projects.</p>
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/31138752" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ADAM Article Posted on O'Reilly and Forbes Sites]]></title>
